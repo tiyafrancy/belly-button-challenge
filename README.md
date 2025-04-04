@@ -24,9 +24,16 @@ Then we created a bubble chart that displays each sample.
 
 ![Screenshot 2025-04-03 at 11 18 20 PM](https://github.com/user-attachments/assets/408bde65-7f63-4f44-afd4-56f11b4ba332)
 
-We also displays the sample's metadata, i.e an individuals demographic information to a panel.     
+We also displays the sample's metadata, i.e an individuals demographic information in a panel.     
 
 ![Screenshot 2025-04-03 at 11 21 04 PM](https://github.com/user-attachments/assets/7e1e3eb6-6863-4fca-8c08-417e6d1888da)
+
+To see the dashboard, click the **go live** button at the bottom of the VS Code.     <img width="104" alt="Screenshot 2025-04-03 at 11 28 09 PM" src="https://github.com/user-attachments/assets/7962995d-9249-435b-baf6-b59d8185983c" />
+
+
+
+
+
 
 
 
